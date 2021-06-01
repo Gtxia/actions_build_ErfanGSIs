@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://hugeota.d.miui.com/20.3.10/miui_LAURUS_20.3.10_1439f61890_9.0.zip
+  ROM_URL: https://bigota.d.miui.com/V12.0.4.0.PEFCNXM/miui_HMS2_V12.0.4.0.PEFCNXM_b220c0a02e_9.0.zip
   ROM_NAME: MIUI
   TZ: Asia/Shanghai
 
